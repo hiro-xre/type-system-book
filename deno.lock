@@ -172,6 +172,7 @@
   },
   "workspace": {
     "dependencies": [
+      "npm:@typescript-eslint/typescript-estree@*",
       "npm:tiny-ts-parser@latest"
     ]
   }

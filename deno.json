@@ -1,5 +1,6 @@
 {
   "imports": {
-    "tiny-ts-parser": "npm:tiny-ts-parser@latest"
+    "tiny-ts-parser": "npm:tiny-ts-parser@latest",
+    "@typescript-eslint/typescript-estree": "npm:@typescript-eslint/typescript-estree"
   }
 } 
